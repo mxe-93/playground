@@ -1,5 +1,5 @@
 module.exports = {
-    pathPrefix: '/gatsby-gitpod',
+    pathPrefix: '/playground',
     siteMetadata: {
         title: `Gatsby Default Starter`,
         description: `Kick off your next, ...`,
